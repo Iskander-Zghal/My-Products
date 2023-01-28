@@ -1,0 +1,42 @@
+ext {
+    // ANDROID
+    androidCoreKtxVersion = '1.9.0'
+    androidAppCompatVersion = '1.5.1'
+    androidLifecycleRuntimeKtxVersion = '2.5.1'
+    kotlin_version = "1.7.3"
+
+    // COROUTINES
+    coroutinesVersion = '1.6.4'
+
+    // RETROFIT
+    retrofitVersion = '2.9.0'
+
+    // OKHTTP
+    okHttpVersion = '4.10.0'
+
+    // MOSHI
+    moshiVersion = '1.13.0'
+
+    // HILT
+    hiltVersion = '2.43.2'
+
+    //ROOM
+    room_version = '2.4.3'
+
+    // ANIMATION
+    lottieVersion = "3.4.0"
+
+    //MOSHI
+    moshi_version = '1.13.0'
+
+    //PICASSO
+    picasso_version = '2.8'
+
+    // TEST
+    junit5Version = "5.7.2"
+    mockitoKotlinVersion = "2.2.0"
+    mockitoCoreVersion = "4.0.0"
+    mockitoJunit5Version = "3.11.2"
+    assertJVersion = "3.10.0"
+    kotlinxCoroutinesTestVersion = "1.5.2"
+}
