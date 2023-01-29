@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">my products</string>
+    <string name="app_name">My Products</string>
     <string name="error_msg">une erreur est survenue</string>
     <string name="product_name">Produit : %s </string>
     <string name="product_description">Description du produit: \n\n %s \n</string>
